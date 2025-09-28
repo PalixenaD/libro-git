@@ -1,9 +1,5 @@
 Chac, S. and Straub, B. Pro Git. Apress.
 Scott Chac and Ben Straub. Pro Git. Apress.
-<<<<<<< HEAD
 Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014) 
-Chac, S. and Straub, B. Pro Git. Apress.
 Loeliger, J. and McCullough, M. Version control with Git. O’Reilly 
-=======
-Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)  
->>>>>>> bibliografia
+
